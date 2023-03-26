@@ -17,3 +17,4 @@ This is Stanford's Web Application course covers HTML, CSS, JavaScript, ReactJs,
 - Assignments: <https://web.stanford.edu/class/cs142/projects.html>
 
 ## Usage
+![图1](https://github.com/frederick-yi/Immunology-self-learning/blob/main/%E6%96%87%E6%A1%A3/%E5%9F%BA%E7%A1%80%E8%BD%AF%E4%BB%B6/photos/1.jpg)
